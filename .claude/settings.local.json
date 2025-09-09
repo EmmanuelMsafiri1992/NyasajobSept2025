@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php:*)",
+      "Bash(composer --version)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(curl:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

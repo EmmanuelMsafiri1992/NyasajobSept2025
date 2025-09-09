@@ -1,0 +1,9 @@
+
+php artisan db:seed --class=JobAlertPackageSeeder
+
+sb-pwvkk20781444@business.example.com
+sb-6xla4720787207@personal.example.com
+admin555
+
+
+
